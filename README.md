@@ -15,4 +15,4 @@ Clone this repository and explore the project files.
 
 ---
 
-*Author: Harsha*  
+*Author: Harshanandhini*  
